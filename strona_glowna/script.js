@@ -1,0 +1,1 @@
+alert("Witam w def.IT_QA")
